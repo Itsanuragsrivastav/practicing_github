@@ -1,0 +1,49 @@
+body {
+    
+    margin: 0px;
+    font-family: 'Sacramento', cursive;
+}
+
+h1 {
+    margin-top: 0px;
+    font-size: 2em; /*16px = 100% = 1em* ; rem = relative em  
+    
+    I know quite certainly that I myself have no special talent; curiosity, obsession
+    and dogged endurance, combined with self-criticism have brought me to my ideas.
+   
+   Albert Einstein*/
+    line-height: 2;
+    
+    
+}
+
+.top-container {
+    background-color: #e4f9f5;
+    width: 200px;
+    height: 200px;
+    border: solid;
+    border-width: 10px;
+    padding: 20px;
+    position: relative;
+    
+    
+
+}
+
+.middle-container {
+    background-color: crimson;
+    width: 200px;
+    height: 200px;
+    border: solid;
+    border-width: 20px;
+    margin-left: 260px;
+}
+
+.bottom-container {
+    background-color: deepskyblue;
+    width: 200px;
+    height: 200px;
+    border: solid;
+    border-width: 10px;
+    margin-left: 500px;
+}
